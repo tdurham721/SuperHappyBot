@@ -1,11 +1,11 @@
 var settings =
         {
-            channels : ["#thabeast721"],
+            channels : ["removed"],
             server : "irc.twitch.tv",
             port: 6667,
             secure: false,
-            nick : "Super_Happy_Bot",
-            password : "oauth:r4tbb19ogfip1r8qrkq227nsg1cxfa"
+            nick : "removed",
+            password : "removed"
         };
 
 var options = 
